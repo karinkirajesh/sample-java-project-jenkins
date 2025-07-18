@@ -48,6 +48,8 @@ class Calculator {
 
             default:
                 System.out.println("Invalid operator!");
+                System.out.println("hi ok");
+
         }
 
         scanner.close();
